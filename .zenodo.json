@@ -1,0 +1,19 @@
+{
+  "title": "scGSCA: gene-set differential co-expression analysis for single-cell RNA sequencing data",
+  "upload_type": "software",
+  "description": "C++ implementation of scGSCA for single-cell gene-set co-expression analysis. Creator: Zhuoli Jin. Contributors: Zhuoli Jin and Rebecca Irlmeier. Associated manuscript authors: Zhuoli Jin, Rebecca Irlmeier, Jie Ping, Yuan Wang, Yan Guo, and Fei Ye. Zhuoli Jin and Rebecca Irlmeier contributed equally. Yan Guo and Fei Ye are co-corresponding authors.",
+  "creators": [{"name": "Jin, Zhuoli"}],
+  "contributors": [
+    {"name": "Jin, Zhuoli", "type": "Other"},
+    {"name": "Irlmeier, Rebecca", "type": "Other"}
+  ],
+  "license": "MIT",
+  "keywords": ["scGSCA", "single-cell RNA sequencing", "co-expression", "gene sets"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Ye-Lab-UMiami/scGSCA",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

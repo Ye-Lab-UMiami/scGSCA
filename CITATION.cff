@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated manuscript described in README.md."
+type: software
+title: "scGSCA: gene-set differential co-expression analysis for single-cell RNA sequencing data"
+authors:
+  - family-names: Jin
+    given-names: Zhuoli
+repository-code: "https://github.com/Ye-Lab-UMiami/scGSCA"
+url: "https://github.com/Ye-Lab-UMiami/scGSCA"
+license: MIT
+abstract: "C++ implementation of scGSCA for single-cell gene-set co-expression analysis. Created by Zhuoli Jin, with contributions from Zhuoli Jin and Rebecca Irlmeier."
